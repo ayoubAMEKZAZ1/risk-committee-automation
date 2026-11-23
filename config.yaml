@@ -1,0 +1,55 @@
+# Committee automation settings. Everything a risk team would want to change without touching code.
+
+committee:
+  name: "Sensitive Risk Committee - Corporate & Real Estate"
+  months: ["2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06",
+           "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12"]
+  meeting_day: 15                 # committee meets on the 15th of the month after the reporting date
+
+# Raw extracts arrive with inconsistent headers. Every accepted spelling maps to one standard name.
+columns:
+  exposures:
+    counterparty_id: ["Counterparty ID", "CPTY_ID", "counterparty_id", "Client code"]
+    company_name: ["Company name", "COMPANY", "company_name", "Client name"]
+    segment: ["Segment", "SEGMENT", "segment"]
+    sector: ["Sector", "SECTOR", "sector", "Activity"]
+    region: ["Region", "REGION", "region"]
+    branch: ["Branch", "BRANCH", "branch", "Business centre"]
+    rm: ["Relationship manager", "RM", "rm", "RM code"]
+    limit_mad: ["Authorised limit", "LIMIT_MAD", "limit_mad", "Limit (MAD)"]
+    on_balance_mad: ["On-balance outstanding", "ON_BAL_MAD", "on_balance_mad", "Drawn (MAD)"]
+    off_balance_mad: ["Off-balance outstanding", "OFF_BAL_MAD", "off_balance_mad", "Guarantees (MAD)"]
+    days_past_due: ["Days past due", "DPD", "days_past_due"]
+    internal_rating: ["Internal rating", "RATING", "internal_rating", "Grade"]
+    status: ["Status", "STATUS", "status"]
+  candidates:
+    counterparty_id: ["Counterparty ID", "CPTY_ID", "counterparty_id"]
+    trigger_name: ["Trigger", "TRIGGER", "trigger"]
+    trigger_value: ["Value", "VALUE", "trigger_value"]
+  recovery:
+    counterparty_id: ["Counterparty ID", "counterparty_id"]
+    transfer_date: ["Transfer date", "transfer_date"]
+    litigation_stage: ["Litigation stage", "litigation_stage"]
+    recovered_to_date_mad: ["Recovered to date (MAD)", "recovered_to_date_mad"]
+
+mandatory:
+  exposures: [counterparty_id, limit_mad, on_balance_mad, internal_rating, status, rm]
+
+ratings: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "D"]
+
+data_quality:
+  overdraw_tolerance: 1.20         # on-balance above 120% of the limit is flagged
+  extract_size_change: 0.05        # more than 5% change in the number of names vs last month
+
+categories:                        # one output file per category, in this order
+  - New entries
+  - Under follow-up
+  - Proposed exits
+  - Proposed transfers to recovery
+  - Recovery follow-up
+
+exit_rule:
+  months_without_trigger: 3        # a name with no trigger for 3 months is proposed for exit
+
+aging_buckets: [[0, 30, "0-30 days"], [31, 60, "31-60 days"], [61, 90, "61-90 days"], [91, 100000, "Over 90 days"]]
+escalation_days: 60                # overdue actions older than this go to the escalation list

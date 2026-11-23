@@ -1,0 +1,6 @@
+Counterparty,Company,Segment,Sector,Branch,RM,Rating,Days past due,Limit (MAD),On-balance (MAD),Off-balance (MAD),Triggers this month,Last review,Last decision,Months since last trigger,Litigation stage,Months in recovery,Recovered to date (MAD),Open actions,Overdue actions
+CP02808,Ouarzazate Agadir Industries,Mid-corporate,Manufacturing,Marrakech Business Centre,RM-21,D,90,33231000.0,24885034.35,4984650.0,,2025-12-15,Keep on watch list,1.0,,,,0,0
+CP00245,Tafilalt Logistics Holding,Mid-corporate,Transport & logistics,Souss Business Centre,RM-69,D,90,30138000.0,19267223.4,4520700.0,,2025-12-15,Keep on watch list,1.0,,,,0,0
+CP02710,Tichka Argan Trading,SME,Wholesale & retail trade,Casablanca Business Centre,RM-04,D,90,5310000.0,4223574.0,796500.0,,2025-12-15,Place on watch list,1.0,,,,1,0
+CP02230,Sahara Builders Group,SME,Construction,Souss Business Centre,RM-63,D,90,1432000.0,1012710.4,214800.0,,2025-12-15,Keep on watch list,1.0,,,,1,1
+CP01763,Atlas Azrou Hotels,SME,Tourism & hospitality,Rabat Business Centre,RM-54,D,90,1142000.0,678119.6,171300.0,,2025-12-15,Keep on watch list,1.0,,,,1,1

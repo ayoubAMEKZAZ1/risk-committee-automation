@@ -1,0 +1,9 @@
+Counterparty,Company,Segment,Sector,Branch,RM,Rating,Days past due,Limit (MAD),On-balance (MAD),Off-balance (MAD),Triggers this month,Last review,Last decision,Months since last trigger,Litigation stage,Months in recovery,Recovered to date (MAD),Open actions,Overdue actions
+CP01401,Draa Azrou Builders,Mid-corporate,Construction,Tangier Business Centre,RM-78,7,0,28143000.0,20927134.8,4221450.0,,2025-12-15,Keep on watch list,3.0,,,,1,1
+CP02244,Souss Tafilalt Trading,SME,Wholesale & retail trade,Tangier Business Centre,RM-74,7,0,20760000.0,16599696.0,3114000.0,,2025-12-15,Keep on watch list,4.0,,,,0,0
+CP00215,Larache Cedar Foods,Mid-corporate,Agriculture & agrifood,Casablanca Business Centre,RM-10,7,0,14086000.0,10528580.7,2112900.0,,2025-12-15,Keep on watch list,3.0,,,,0,0
+CP00136,Chefchaouen Bouregreg Services,SME,Business services,Casablanca Business Centre,RM-06,7,0,11836000.0,9617341.8,1775400.0,,2025-12-15,Keep on watch list,3.0,,,,1,1
+CP00125,Larache Trading SA,SME,Wholesale & retail trade,Marrakech Business Centre,RM-21,7,0,4693000.0,3878999.15,703950.0,,2025-12-15,Keep on watch list,3.0,,,,0,0
+CP00392,Essaouira Properties Holding,SME,Real estate services,Casablanca Business Centre,RM-03,6,25,3015000.0,2438230.5,452250.0,,2025-12-15,Keep on watch list,3.0,,,,1,1
+CP00327,Ifrane Sebou Industries,SME,Manufacturing,Marrakech Business Centre,RM-28,6,0,3154000.0,2332067.6,473100.0,,2025-12-15,Keep on watch list,3.0,,,,0,0
+CP01200,Sebou Sahara Industries,SME,Manufacturing,Casablanca Business Centre,RM-01,6,0,2663000.0,2069683.6,399450.0,,2025-12-15,Keep on watch list,4.0,,,,0,0

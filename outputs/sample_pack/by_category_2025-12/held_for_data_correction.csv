@@ -1,0 +1,4 @@
+Counterparty,Company,Segment,Sector,Branch,RM,Rating,Days past due,Limit (MAD),On-balance (MAD),Off-balance (MAD),Triggers this month,Last review,Last decision,Months since last trigger,Litigation stage,Months in recovery,Recovered to date (MAD),Open actions,Overdue actions
+CP01410,Dakhla Atlas Logistics,Mid-corporate,Transport & logistics,Oriental Business Centre,,D,300,7249000.0,4745920.3,1087350.0,,,,8.0,Legal proceedings,7,136723.71,0,0
+CP00008,Zagora Ifrane Services,SME,Business services,Casablanca Business Centre,,D,240,3151000.0,2240518.55,472650.0,,,,6.0,Legal proceedings,5,60571.63,1,1
+CP00546,Zagora Properties Group,Mid-corporate,Real estate services,Casablanca Business Centre,RM-01,D,600,30670000.0,-25607916.5,4600500.0,,,,,Enforcement,17,1228507.25,0,0

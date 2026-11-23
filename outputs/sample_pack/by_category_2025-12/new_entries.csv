@@ -1,0 +1,16 @@
+Counterparty,Company,Segment,Sector,Branch,RM,Rating,Days past due,Limit (MAD),On-balance (MAD),Off-balance (MAD),Triggers this month,Last review,Last decision,Months since last trigger,Litigation stage,Months in recovery,Recovered to date (MAD),Open actions,Overdue actions
+CP00312,Kenitra Tetouan Developments,Property developer,Real estate development,Casablanca Business Centre,RM-01,8,40,213182000.0,169714190.2,31977300.0,Rating 8-9; 30-89 days past due; Downgrade of 2+ notches in 12 months,,,0.0,,,,0,0
+CP00317,Tafilalt Developments SA,Property developer,Real estate development,Casablanca Business Centre,RM-09,8,75,152682000.0,122779230.3,22902300.0,Rating 8-9; 30-89 days past due,,,0.0,,,,0,0
+CP01458,Essaouira Ifrane Developments,Property developer,Real estate development,Fez Business Centre,RM-17,8,55,126795000.0,98545074.0,19019250.0,Rating 8-9; 30-89 days past due; Downgrade of 2+ notches in 12 months,,,0.0,,,,1,1
+CP00789,Tichka Builders Holding,Large corporate,Construction,Casablanca Business Centre,RM-08,8,55,62322000.0,50857868.1,9348300.0,Rating 8-9; 30-89 days past due; Downgrade of 2+ notches in 12 months,,,0.0,,,,0,0
+CP02980,Massa Services Company,Mid-corporate,Business services,Marrakech Business Centre,RM-24,7,0,56040000.0,40710258.0,8406000.0,3+ payment incidents in the month,,,0.0,,,,0,0
+CP00064,Oasis Moulouya Energy,SME,Energy & utilities,Casablanca Business Centre,RM-09,8,40,16644000.0,13430875.8,2496600.0,Rating 8-9; 30-89 days past due; Downgrade of 2+ notches in 12 months,,,0.0,,,,0,0
+CP02853,Chefchaouen Souss Trading,SME,Wholesale & retail trade,Rabat Business Centre,RM-57,5,0,14391000.0,9341198.1,2158650.0,Downgrade of 2+ notches in 12 months,,,0.0,,,,0,0
+CP01302,Tetouan Logistics Group,SME,Transport & logistics,Tangier Business Centre,RM-75,8,55,9109000.0,6948800.65,1366350.0,Rating 8-9; 30-89 days past due,,,0.0,,,,0,0
+CP00304,Tafilalt Sahara Services,SME,Business services,Tangier Business Centre,RM-80,8,40,4349000.0,3402875.05,652350.0,Rating 8-9; 30-89 days past due,,,0.0,,,,0,0
+CP02582,Larache Hotels Company,SME,Tourism & hospitality,Fez Business Centre,RM-13,6,0,4917000.0,3339626.4,737550.0,Downgrade of 2+ notches in 12 months,,,0.0,,,,0,0
+CP00344,Argan Builders Group,SME,Construction,Casablanca Business Centre,RM-06,8,40,2918000.0,2341403.2,437700.0,Rating 8-9; 30-89 days past due,,,0.0,,,,0,0
+CP00860,Saffron Properties Group,SME,Real estate services,Other regions Business Centre,RM-49,4,0,3639000.0,2013094.8,545850.0,Downgrade of 2+ notches in 12 months,,,0.0,,,,0,0
+CP01346,Ziz Builders Holding,SME,Construction,Casablanca Business Centre,RM-04,8,55,2119000.0,1599421.2,317850.0,Rating 8-9; 30-89 days past due,,,0.0,,,,0,0
+CP00284,Argan Services Holding,SME,Business services,Rabat Business Centre,RM-56,8,55,1225000.0,967505.0,183750.0,Rating 8-9; 30-89 days past due; Downgrade of 2+ notches in 12 months,,,0.0,,,,0,0
+CP01255,Essaouira Atlas Industries,SME,Manufacturing,Casablanca Business Centre,RM-04,8,40,869000.0,672649.45,130350.0,Rating 8-9; 30-89 days past due; Downgrade of 2+ notches in 12 months,,,0.0,,,,0,0

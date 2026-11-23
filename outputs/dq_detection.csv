@@ -1,0 +1,11 @@
+defect,rule,injected,caught,recall_pct
+duplicate_row,DQ02,123,123,100.0
+invalid_rating,DQ06,67,67,100.0
+missing_rating,DQ03,84,84,100.0
+missing_rm,DQ03,71,71,100.0
+negative_amount,DQ04,68,68,100.0
+negative_dpd,DQ07,33,33,100.0
+overdrawn,DQ05,78,78,100.0
+status_dpd_mismatch,DQ08,70,70,100.0
+unnormalised_id,DQ09,193,193,100.0
+truncated_extract (months),DQ11,1,1,100.0

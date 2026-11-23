@@ -1,0 +1,119 @@
+Counterparty,Company,Segment,Sector,Branch,RM,Rating,Days past due,Limit (MAD),On-balance (MAD),Off-balance (MAD),Triggers this month,Last review,Last decision,Months since last trigger,Litigation stage,Months in recovery,Recovered to date (MAD),Open actions,Overdue actions
+CP00959,Massa Souss Trading,Large corporate,Wholesale & retail trade,Souss Business Centre,RM-64,D,300,888506000.0,600052527.1,133275900.0,,,,8.0,Legal proceedings,7,21120612.23,0,0
+CP00300,Dakhla Anfa Foods,Large corporate,Agriculture & agrifood,Casablanca Business Centre,RM-06,D,180,535339000.0,361353825.0,80300850.0,,,,4.0,Formal notice,3,4606894.89,0,0
+CP00690,Moulouya Medina Developments,Property developer,Real estate development,Casablanca Business Centre,RM-04,D,330,323440000.0,230548032.0,48516000.0,,,,9.0,Legal proceedings,8,7979097.06,0,0
+CP01858,Essaouira Cedar Developments,Property developer,Real estate development,Fez Business Centre,RM-20,D,300,222301000.0,173939417.45,33345150.0,,,,8.0,Legal proceedings,7,4770685.63,0,0
+CP00767,Draa Properties Group,Large corporate,Real estate services,Tangier Business Centre,RM-80,D,210,197293000.0,138973189.2,29593950.0,,,,5.0,Legal proceedings,4,2029104.44,1,1
+CP00301,Tafilalt Oasis Developments,Property developer,Real estate development,Rabat Business Centre,RM-60,D,390,191607000.0,132620785.05,28741050.0,,,,11.0,Legal proceedings,10,5998804.19,0,0
+CP00797,Sahara Properties Holding,Large corporate,Real estate services,Casablanca Business Centre,RM-07,D,570,151286000.0,107148309.5,22692900.0,,,,,Enforcement,16,4207771.95,0,0
+CP00254,Dakhla Moulouya Developments,Property developer,Real estate development,Fez Business Centre,RM-19,D,450,117473000.0,93890295.25,17620950.0,,,,13.0,Legal proceedings,12,5237386.04,0,0
+CP00442,Massa Logistics Group,Large corporate,Transport & logistics,Souss Business Centre,RM-70,D,480,146473000.0,90718052.55,21970950.0,,,,14.0,Enforcement,13,3713734.13,0,0
+CP02383,Atlas Developments Company,Property developer,Real estate development,Casablanca Business Centre,RM-08,D,540,113516000.0,82543159.4,17027400.0,,,,,Enforcement,15,5318119.25,0,0
+CP02845,Dakhla Larache Developments,Property developer,Real estate development,Casablanca Business Centre,RM-10,D,480,103833000.0,78409489.95,15574950.0,,,,14.0,Enforcement,13,5314413.59,0,0
+CP01819,Zagora Builders Group,Mid-corporate,Construction,Other regions Business Centre,RM-45,D,510,88472000.0,70122907.2,13270800.0,,,,,Enforcement,14,3858556.78,0,0
+CP00780,Bouregreg Toubkal Hotels,Mid-corporate,Tourism & hospitality,Tangier Business Centre,RM-80,D,330,87658000.0,68219838.5,13148700.0,,,,9.0,Legal proceedings,8,2655422.34,1,1
+CP01147,Tafilalt Ouarzazate Developments,Property developer,Real estate development,Tangier Business Centre,RM-72,D,390,84413000.0,64453546.15,12661950.0,,,,11.0,Legal proceedings,10,1950212.53,0,0
+CP02796,Chefchaouen Developments Company,Property developer,Real estate development,Casablanca Business Centre,RM-04,D,270,92978000.0,60970323.5,13946700.0,,,,7.0,Legal proceedings,6,1042781.38,0,0
+CP00445,Toubkal Bouregreg Properties,Mid-corporate,Real estate services,Casablanca Business Centre,RM-08,D,120,73187000.0,60287791.25,10978050.0,,,,2.0,Formal notice,1,274627.48,0,0
+CP00680,Larache Builders Group,Large corporate,Construction,Marrakech Business Centre,RM-22,D,150,98828000.0,60136838.0,14824200.0,,,,3.0,Formal notice,2,581560.41,1,1
+CP01759,Medina Azrou Developments,Property developer,Real estate development,Tangier Business Centre,RM-73,D,390,70752000.0,57217142.4,10612800.0,,,,11.0,Legal proceedings,10,2052473.76,1,1
+CP01675,Atlas Tetouan Developments,Property developer,Real estate development,Marrakech Business Centre,RM-21,D,330,69865000.0,55937412.25,10479750.0,,,,9.0,Legal proceedings,8,2483587.93,0,0
+CP01570,Zagora Ifrane Developments,Property developer,Real estate development,Casablanca Business Centre,RM-02,D,600,65316000.0,55678624.2,9797400.0,,,,,Enforcement,17,3730183.2,0,0
+CP01870,Tichka Moulouya Developments,Property developer,Real estate development,Fez Business Centre,RM-12,D,420,66710000.0,54251907.5,10006500.0,,,,12.0,Legal proceedings,11,3290449.8,0,0
+CP02136,Chefchaouen Saffron Trading,Mid-corporate,Wholesale & retail trade,Casablanca Business Centre,RM-01,D,330,67156000.0,53157331.8,10073400.0,,,,9.0,Legal proceedings,8,2245098.93,0,0
+CP02924,Anfa Developments SA,Property developer,Real estate development,Casablanca Business Centre,RM-07,D,570,78329000.0,53118811.35,11749350.0,,,,,Enforcement,16,3012843.65,0,0
+CP02022,Sebou Anfa Industries,Mid-corporate,Manufacturing,Marrakech Business Centre,RM-26,D,150,63340000.0,50513650.0,9501000.0,,,,3.0,Formal notice,2,265971.63,0,0
+CP00249,Atlas Saffron Developments,Property developer,Real estate development,Tangier Business Centre,RM-79,D,570,71616000.0,49493817.6,10742400.0,,,,,Enforcement,16,2533912.81,0,0
+CP00953,Sahara Developments Group,Property developer,Real estate development,Casablanca Business Centre,RM-01,D,390,69698000.0,46777812.7,10454700.0,,,,11.0,Legal proceedings,10,1902358.4,0,0
+CP02686,Ifrane Sahara Developments,Property developer,Real estate development,Rabat Business Centre,RM-53,D,300,66268000.0,46516822.6,9940200.0,,,,8.0,Legal proceedings,7,1521737.99,0,0
+CP01951,Massa Tetouan Trading,Mid-corporate,Wholesale & retail trade,Casablanca Business Centre,RM-01,D,210,59638000.0,44722536.2,8945700.0,,,,5.0,Legal proceedings,4,992686.44,0,0
+CP00320,Nador Developments Holding,Property developer,Real estate development,Rabat Business Centre,RM-55,D,180,52278000.0,44180137.8,7841700.0,,,,4.0,Formal notice,3,542951.11,1,1
+CP00409,Larache Developments Company,Property developer,Real estate development,Other regions Business Centre,RM-42,D,240,57225000.0,40669807.5,8583750.0,,,,6.0,Legal proceedings,5,1313814.76,0,0
+CP00260,Souss Sebou Developments,Property developer,Real estate development,Casablanca Business Centre,RM-07,D,600,53900000.0,38551975.0,8085000.0,,,,,Enforcement,17,2280502.65,0,0
+CP00281,Agadir Developments SA,Property developer,Real estate development,Casablanca Business Centre,RM-01,D,180,47874000.0,38179515.0,7181100.0,,,,4.0,Formal notice,3,822089.34,1,1
+CP01277,Anfa Developments Company,Property developer,Real estate development,Souss Business Centre,RM-64,D,420,46515000.0,36118897.5,6977250.0,,,,12.0,Legal proceedings,11,2027686.25,0,0
+CP01597,Medina Tafilalt Developments,Property developer,Real estate development,Tangier Business Centre,RM-77,D,300,45333000.0,35216941.05,6799950.0,,,,8.0,Legal proceedings,7,1166739.03,1,1
+CP02927,Agadir Kenitra Developments,Property developer,Real estate development,Souss Business Centre,RM-63,D,450,44359000.0,34289507.0,6653850.0,,,,13.0,Legal proceedings,12,2224444.45,0,0
+CP00269,Argan Developments Group,Property developer,Real estate development,Souss Business Centre,RM-63,D,150,41030000.0,30897641.5,6154500.0,,,,3.0,Formal notice,2,181227.64,0,0
+CP00061,Essaouira Developments Company,Property developer,Real estate development,Tangier Business Centre,RM-73,D,360,35028000.0,27763192.8,5254200.0,,,,10.0,Legal proceedings,9,1448315.09,0,0
+CP01628,Tafilalt Tetouan Developments,Property developer,Real estate development,Casablanca Business Centre,RM-02,D,450,34946000.0,26548476.2,5241900.0,,,,,Legal proceedings,12,1599052.14,0,0
+CP01002,Tichka Bouregreg Properties,Mid-corporate,Real estate services,Tangier Business Centre,RM-73,D,330,36401000.0,26443506.45,5460150.0,,,,9.0,Legal proceedings,8,666481.92,0,0
+CP02303,Ifrane Trading SA,Mid-corporate,Wholesale & retail trade,Casablanca Business Centre,RM-06,D,450,34333000.0,24917174.75,5149950.0,,,,13.0,Legal proceedings,12,1416921.93,0,0
+CP01303,Bouregreg Azrou Developments,Property developer,Real estate development,Rabat Business Centre,RM-54,D,510,29796000.0,24648741.0,4469400.0,,,,,Enforcement,14,1291730.98,0,0
+CP01796,Atlas Azrou Developments,Property developer,Real estate development,Casablanca Business Centre,RM-10,D,390,29337000.0,23108754.9,4400550.0,,,,11.0,Legal proceedings,10,1493209.27,0,0
+CP00676,Draa Ziz Properties,Mid-corporate,Real estate services,Tangier Business Centre,RM-76,D,600,30966000.0,23026317.6,4644900.0,,,,,Enforcement,17,1689891.29,0,0
+CP01224,Kenitra Toubkal Developments,Property developer,Real estate development,Rabat Business Centre,RM-60,D,120,31680000.0,22282128.0,4752000.0,,,,2.0,Formal notice,1,23850.5,2,2
+CP01606,Azrou Hotels Company,SME,Tourism & hospitality,Rabat Business Centre,RM-57,D,600,29199000.0,21293370.75,4379850.0,,,,,Enforcement,17,979941.58,0,0
+CP01417,Draa Properties SA,SME,Real estate services,Casablanca Business Centre,RM-03,D,510,22803000.0,19302739.5,3420450.0,,,,,Enforcement,14,1107513.99,0,0
+CP01037,Agadir Azrou Developments,Property developer,Real estate development,Marrakech Business Centre,RM-28,D,360,26885000.0,17686297.25,4032750.0,,,,10.0,Legal proceedings,9,595926.47,0,0
+CP00299,Sebou Massa Hotels,SME,Tourism & hospitality,Tangier Business Centre,RM-74,D,210,22197000.0,17562266.4,3329550.0,,,,,Legal proceedings,4,303406.2,0,0
+CP02943,Anfa Industries Group,SME,Manufacturing,Marrakech Business Centre,RM-21,D,180,27102000.0,16244938.8,4065300.0,,,,4.0,Formal notice,3,289928.83,2,2
+CP00512,Anfa Foods Company,Mid-corporate,Agriculture & agrifood,Casablanca Business Centre,RM-06,D,240,19525000.0,16097386.25,2928750.0,,,,6.0,Legal proceedings,5,296668.07,0,0
+CP02859,Tichka Dakhla Trading,SME,Wholesale & retail trade,Casablanca Business Centre,RM-03,D,600,21754000.0,15947857.4,3263100.0,,,,,Enforcement,17,673028.85,0,0
+CP01041,Cedar Bouregreg Foods,SME,Agriculture & agrifood,Rabat Business Centre,RM-53,D,480,22211000.0,15412212.9,3331650.0,,,,14.0,Enforcement,13,966633.16,0,0
+CP02417,Atlas Medina Developments,Property developer,Real estate development,Casablanca Business Centre,RM-05,D,390,18774000.0,14551727.4,2816100.0,,,,11.0,Legal proceedings,10,757122.36,0,0
+CP02799,Azrou Tetouan Trading,Mid-corporate,Wholesale & retail trade,Marrakech Business Centre,RM-23,D,600,23082000.0,14449332.0,3462300.0,,,,,Enforcement,17,764226.47,0,0
+CP00056,Tetouan Moulouya Hotels,Mid-corporate,Tourism & hospitality,Casablanca Business Centre,RM-02,D,180,20017000.0,13448421.45,3002550.0,,,,4.0,Formal notice,3,111210.95,0,0
+CP02241,Nador Builders SA,Mid-corporate,Construction,Fez Business Centre,RM-18,D,180,19966000.0,12945954.4,2994900.0,,,,4.0,Formal notice,2,190385.18,0,0
+CP01377,Agadir Properties Group,Mid-corporate,Real estate services,Fez Business Centre,RM-17,D,300,18783000.0,12448433.25,2817450.0,,,,8.0,Legal proceedings,7,463556.21,0,0
+CP02526,Atlas Ifrane Trading,SME,Wholesale & retail trade,Oriental Business Centre,RM-32,D,510,15952000.0,12124317.6,2392800.0,,,,,Enforcement,14,871577.66,0,0
+CP01089,Kenitra Medina Builders,Mid-corporate,Construction,Fez Business Centre,RM-18,D,360,14312000.0,11013084.0,2146800.0,,,,,Legal proceedings,9,314514.66,0,0
+CP02278,Essaouira Dakhla Industries,Mid-corporate,Manufacturing,Casablanca Business Centre,RM-03,D,120,13412000.0,10390947.0,2011800.0,,,,,Formal notice,1,89890.23,0,0
+CP01738,Ifrane Moulouya Hotels,Mid-corporate,Tourism & hospitality,Casablanca Business Centre,RM-10,D,420,12950000.0,9738400.0,1942500.0,,,,12.0,Legal proceedings,11,430450.41,0,0
+CP02883,Sebou Anfa Logistics,SME,Transport & logistics,Casablanca Business Centre,RM-02,D,330,14669000.0,9716745.6,2200350.0,,,,9.0,Legal proceedings,8,558001.19,1,1
+CP02400,Sahara Tafilalt Builders,SME,Construction,Casablanca Business Centre,RM-09,D,270,12131000.0,9266870.9,1819650.0,,,,7.0,Legal proceedings,6,266311.72,0,0
+CP02556,Cedar Azrou Services,SME,Business services,Rabat Business Centre,RM-56,D,120,10660000.0,7885735.0,1599000.0,,,,2.0,Formal notice,1,8397.49,0,0
+CP01769,Sahara Moulouya Hotels,SME,Tourism & hospitality,Casablanca Business Centre,RM-01,D,150,9912000.0,7200572.4,1486800.0,,,,3.0,Formal notice,2,51403.67,0,0
+CP00746,Cedar Essaouira Logistics,SME,Transport & logistics,Casablanca Business Centre,RM-08,D,300,10178000.0,7019766.6,1526700.0,,,,8.0,Legal proceedings,7,289769.09,0,0
+CP02016,Zagora Nador Logistics,SME,Transport & logistics,Casablanca Business Centre,RM-04,D,300,7761000.0,5890599.0,1164150.0,,,,8.0,Legal proceedings,7,216499.14,0,0
+CP01088,Oasis Souss Logistics,Mid-corporate,Transport & logistics,Marrakech Business Centre,RM-21,D,570,7641000.0,5403715.2,1146150.0,,,,,Enforcement,16,338288.61,0,0
+CP02778,Atlas Properties Company,SME,Real estate services,Fez Business Centre,RM-14,D,210,6485000.0,4910766.25,972750.0,,,,5.0,Legal proceedings,4,77325.57,0,0
+CP00225,Ifrane Atlas Industries,SME,Manufacturing,Rabat Business Centre,RM-60,D,510,6180000.0,4604100.0,927000.0,,,,,Enforcement,14,233146.96,0,0
+CP02186,Sahara Properties SA,SME,Real estate services,Other regions Business Centre,RM-50,D,210,5605000.0,4244386.25,840750.0,,,,5.0,Legal proceedings,4,74111.9,0,0
+CP01049,Toubkal Services SA,Mid-corporate,Business services,Rabat Business Centre,RM-59,D,330,5886000.0,3960689.4,882900.0,,,,9.0,Legal proceedings,8,142909.18,1,1
+CP02485,Toubkal Properties Holding,SME,Real estate services,Casablanca Business Centre,RM-06,D,420,4975000.0,3854381.25,746250.0,,,,12.0,Legal proceedings,11,198416.16,0,0
+CP00473,Bouregreg Medina Builders,SME,Construction,Fez Business Centre,RM-14,D,270,4850000.0,3725285.0,727500.0,,,,7.0,Legal proceedings,6,100768.3,0,0
+CP02173,Azrou Tetouan Services,SME,Business services,Souss Business Centre,RM-63,D,240,4579000.0,3687010.8,686850.0,,,,6.0,Legal proceedings,5,50018.63,1,1
+CP02033,Chefchaouen Tetouan Foods,SME,Agriculture & agrifood,Tangier Business Centre,RM-71,D,150,5268000.0,3613057.8,790200.0,,,,3.0,Formal notice,2,38694.92,0,0
+CP02937,Tafilalt Trading Holding,SME,Wholesale & retail trade,Casablanca Business Centre,RM-06,D,570,4873000.0,3603096.2,730950.0,,,,,Enforcement,16,165709.42,0,0
+CP00646,Toubkal Medina Industries,SME,Manufacturing,Casablanca Business Centre,RM-04,D,360,4710000.0,3540271.5,706500.0,,,,10.0,Legal proceedings,9,153320.59,0,0
+CP01872,Sebou Argan Builders,SME,Construction,Rabat Business Centre,RM-60,D,420,4394000.0,3501139.2,659100.0,,,,12.0,Legal proceedings,11,194196.62,0,0
+CP01431,Tafilalt Oasis Trading,SME,Wholesale & retail trade,Casablanca Business Centre,RM-07,D,480,5159000.0,3475102.4,773850.0,,,,,Enforcement,13,197758.89,0,0
+CP02642,Agadir Toubkal Trading,SME,Wholesale & retail trade,Souss Business Centre,RM-70,D,180,4819000.0,3461969.6,722850.0,,,,4.0,Formal notice,3,39507.21,0,0
+CP01501,Nador Chefchaouen Trading,SME,Wholesale & retail trade,Casablanca Business Centre,RM-07,D,390,4254000.0,3389587.2,638100.0,,,,11.0,Legal proceedings,10,120842.91,0,0
+CP00836,Tafilalt Larache Industries,SME,Manufacturing,Oriental Business Centre,RM-33,D,180,4197000.0,3361797.0,629550.0,,,,4.0,Formal notice,3,82355.23,0,0
+CP01415,Agadir Dakhla Services,SME,Business services,Casablanca Business Centre,RM-06,D,390,4545000.0,3358982.25,681750.0,,,,11.0,Legal proceedings,10,174860.57,0,0
+CP01807,Ouarzazate Souss Builders,SME,Construction,Casablanca Business Centre,RM-04,D,360,4678000.0,3267349.1,701700.0,,,,10.0,Legal proceedings,9,152907.87,0,0
+CP00951,Cedar Azrou Trading,SME,Wholesale & retail trade,Rabat Business Centre,RM-51,D,180,4346000.0,3257544.3,651900.0,,,,,Formal notice,3,37596.73,0,0
+CP02765,Ifrane Massa Properties,SME,Real estate services,Casablanca Business Centre,RM-06,D,390,4939000.0,3193804.35,740850.0,,,,11.0,Legal proceedings,10,156387.32,0,0
+CP01816,Sebou Anfa Trading,SME,Wholesale & retail trade,Casablanca Business Centre,RM-05,D,600,4306000.0,3186870.6,645900.0,,,,,Enforcement,17,176122.21,0,0
+CP01828,Tichka Logistics SA,SME,Transport & logistics,Rabat Business Centre,RM-54,D,180,3835000.0,3142974.25,575250.0,,,,4.0,Formal notice,3,7139.82,1,1
+CP02646,Tafilalt Builders Group,SME,Construction,Rabat Business Centre,RM-59,D,150,4227000.0,3010046.7,634050.0,,,,4.0,Formal notice,2,16991.98,1,1
+CP00598,Azrou Industries Company,SME,Manufacturing,Casablanca Business Centre,RM-02,D,630,3793000.0,2856318.65,568950.0,,,,,Enforcement,18,155427.8,0,0
+CP01745,Bouregreg Trading SA,SME,Wholesale & retail trade,Rabat Business Centre,RM-59,D,240,3219000.0,2580672.3,482850.0,,,,6.0,Legal proceedings,5,59053.37,0,0
+CP02301,Kenitra Anfa Builders,SME,Construction,Oriental Business Centre,RM-32,D,510,3445000.0,2389279.75,516750.0,,,,,Enforcement,14,104950.95,0,0
+CP01278,Argan Saffron Builders,SME,Construction,Casablanca Business Centre,RM-02,D,210,2650000.0,2184792.5,397500.0,,,,5.0,Legal proceedings,4,26779.49,1,1
+CP00176,Cedar Bouregreg Builders,SME,Construction,Souss Business Centre,RM-64,D,210,2936000.0,2165740.4,440400.0,,,,5.0,Legal proceedings,4,41866.56,0,0
+CP00491,Tafilalt Oasis Services,SME,Business services,Casablanca Business Centre,RM-07,D,390,2821000.0,2125341.4,423150.0,,,,11.0,Legal proceedings,10,95952.48,0,0
+CP02868,Argan Industries SA,SME,Manufacturing,Marrakech Business Centre,RM-27,D,480,2906000.0,2097841.4,435900.0,,,,14.0,Enforcement,13,128367.63,0,0
+CP00060,Argan Hotels Group,SME,Tourism & hospitality,Casablanca Business Centre,RM-04,D,600,2761000.0,2086901.85,414150.0,,,,,Enforcement,17,128535.46,0,0
+CP02565,Dakhla Properties Holding,SME,Real estate services,Other regions Business Centre,RM-47,D,570,3219000.0,2078186.4,482850.0,,,,,Enforcement,16,98654.27,0,0
+CP00069,Agadir Trading Holding,SME,Wholesale & retail trade,Casablanca Business Centre,RM-03,D,360,2812000.0,2014235.6,421800.0,,,,10.0,Legal proceedings,9,81286.13,0,0
+CP00545,Oasis Tichka Services,SME,Business services,Casablanca Business Centre,RM-06,D,630,2786000.0,2006337.9,417900.0,,,,,Enforcement,18,75315.68,0,0
+CP00308,Tafilalt Ouarzazate Properties,SME,Real estate services,Casablanca Business Centre,RM-06,D,240,2245000.0,1648166.75,336750.0,,,,6.0,Legal proceedings,5,34253.16,0,0
+CP02971,Toubkal Argan Industries,SME,Manufacturing,Casablanca Business Centre,RM-04,D,210,2696000.0,1628249.2,404400.0,,,,5.0,Legal proceedings,4,40275.7,1,1
+CP01310,Oasis Agadir Builders,SME,Construction,Rabat Business Centre,RM-52,D,450,2486000.0,1531873.2,372900.0,,,,13.0,Legal proceedings,12,111395.01,0,0
+CP01474,Moulouya Properties SA,SME,Real estate services,Other regions Business Centre,RM-41,D,420,1968000.0,1408300.8,295200.0,,,,12.0,Legal proceedings,11,92075.95,0,0
+CP00761,Ifrane Logistics Group,SME,Transport & logistics,Oriental Business Centre,RM-37,D,120,1765000.0,1405734.25,264750.0,,,,2.0,Formal notice,1,5071.7,1,1
+CP01549,Sahara Services Holding,SME,Business services,Casablanca Business Centre,RM-03,D,390,1864000.0,1379546.4,279600.0,,,,11.0,Legal proceedings,10,58304.02,0,0
+CP02562,Anfa Ifrane Trading,SME,Wholesale & retail trade,Fez Business Centre,RM-14,D,120,1894000.0,1350706.1,284100.0,,,,2.0,Formal notice,1,2749.19,1,1
+CP02467,Argan Builders Company,SME,Construction,Casablanca Business Centre,RM-10,D,240,1731000.0,1302317.85,259650.0,,,,6.0,Legal proceedings,5,36213.74,0,0
+CP01717,Argan Cedar Industries,SME,Manufacturing,Casablanca Business Centre,RM-07,D,450,1938000.0,1270843.5,290700.0,,,,13.0,Legal proceedings,12,90889.75,0,0
+CP02247,Zagora Draa Builders,SME,Construction,Tangier Business Centre,RM-79,D,420,1630000.0,1265695.0,244500.0,,,,12.0,Legal proceedings,11,62304.38,0,0
+CP01902,Atlas Hotels Holding,SME,Tourism & hospitality,Casablanca Business Centre,RM-04,D,540,1791000.0,1220835.15,268650.0,,,,,Enforcement,15,66636.17,0,0
+CP02511,Nador Dakhla Trading,SME,Wholesale & retail trade,Souss Business Centre,RM-70,D,630,1802000.0,1127421.3,270300.0,,,,,Enforcement,18,71227.43,0,0
+CP02771,Atlas Trading SA,SME,Wholesale & retail trade,Rabat Business Centre,RM-54,D,150,1416000.0,1097046.0,212400.0,,,,3.0,Formal notice,2,4354.92,0,0
+CP00432,Ziz Sahara Industries,SME,Manufacturing,Tangier Business Centre,RM-80,D,270,1101000.0,832576.2,165150.0,,,,7.0,Legal proceedings,6,28372.42,0,0
+CP01437,Saffron Ifrane Services,SME,Business services,Marrakech Business Centre,RM-23,D,600,1046000.0,820639.3,156900.0,,,,,Enforcement,17,47545.26,0,0
+CP03000,Essaouira Industries SA,SME,Manufacturing,Casablanca Business Centre,RM-07,D,510,1427000.0,801902.65,214050.0,,,,,Enforcement,14,48705.92,0,0
+CP00068,Chefchaouen Foods SA,SME,Agriculture & agrifood,Rabat Business Centre,RM-58,D,540,200000.0,155650.0,30000.0,,,,,Enforcement,15,7771.71,0,0

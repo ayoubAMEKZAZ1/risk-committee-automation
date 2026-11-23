@@ -1,0 +1,153 @@
+counterparty_id,trigger,trigger_value
+CP02827,Rating 8-9,8
+CP02911,Rating 8-9,8
+CP00344,Rating 8-9,8
+CP00821,Rating 8-9,8
+CP00523,Rating 8-9,8
+CP00030,Rating 8-9,8
+CP01621,Rating 8-9,8
+CP00789,Rating 8-9,8
+CP01904,Rating 8-9,8
+CP01458,Rating 8-9,8
+CP00645,Rating 8-9,8
+CP00481,Rating 8-9,8
+CP01947,Rating 8-9,8
+CP02242,Rating 8-9,8
+CP02728,Rating 8-9,8
+CP00213,Rating 8-9,8
+CP02917,Rating 8-9,9
+CP01596,Rating 8-9,8
+CP02655,Rating 8-9,8
+CP01553,Rating 8-9,8
+CP00640,Rating 8-9,8
+CP00727,Rating 8-9,8
+CP00317,Rating 8-9,8
+CP00284,Rating 8-9,8
+CP00318,Rating 8-9,8
+CP00304,Rating 8-9,8
+CP01676,Rating 8-9,8
+CP00485,Rating 8-9,8
+CP02714,Rating 8-9,8
+CP00191,Rating 8-9,8
+CP02577,Rating 8-9,8
+CP01249,Rating 8-9,8
+CP02450,Rating 8-9,8
+CP00402,Rating 8-9,8
+CP02018,Rating 8-9,8
+CP00987,Rating 8-9,8
+CP00579,Rating 8-9,8
+CP00708,Rating 8-9,8
+CP01649,Rating 8-9,8
+CP00064,Rating 8-9,8
+CP01583,Rating 8-9,8
+CP01302,Rating 8-9,8
+CP00129,Rating 8-9,8
+CP01624,Rating 8-9,8
+CP01632,Rating 8-9,8
+CP00436,Rating 8-9,8
+CP01956,Rating 8-9,8
+CP01726,Rating 8-9,9
+CP01989,Rating 8-9,8
+CP00151,Rating 8-9,8
+CP01667,Rating 8-9,8
+CP00143,Rating 8-9,8
+CP02993,Rating 8-9,8
+CP02519,Rating 8-9,8
+CP00312,Rating 8-9,8
+CP02305,Rating 8-9,8
+CP00386,Rating 8-9,8
+CP01865,Rating 8-9,8
+CP00020,Rating 8-9,8
+CP00819,Rating 8-9,8
+CP02502,Rating 8-9,8
+CP02934,Rating 8-9,8
+CP01269,Rating 8-9,8
+CP01332,Rating 8-9,8
+CP02263,Rating 8-9,8
+CP02558,Rating 8-9,8
+CP00760,Rating 8-9,8
+CP00539,Rating 8-9,8
+CP02270,Rating 8-9,8
+CP02166,Rating 8-9,8
+CP01359,Rating 8-9,8
+CP00439,Rating 8-9,9
+CP01319,Rating 8-9,8
+CP00948,Rating 8-9,8
+CP01314,Rating 8-9,8
+CP02370,Rating 8-9,8
+CP01603,Rating 8-9,8
+CP02091,Rating 8-9,8
+CP01254,Rating 8-9,8
+CP01255,Rating 8-9,8
+CP00933,Rating 8-9,8
+CP01188,Rating 8-9,8
+CP00296,Rating 8-9,8
+CP01346,Rating 8-9,8
+CP00658,Rating 8-9,8
+CP01562,Rating 8-9,8
+CP02079,Rating 8-9,8
+CP02371,Rating 8-9,8
+CP01400,Rating 8-9,8
+CP01794,Rating 8-9,8
+CP00186,Rating 8-9,8
+CP00415,Rating 8-9,8
+CP00344,30-89 days past due,40
+CP00789,30-89 days past due,55
+CP01458,30-89 days past due,55
+CP01947,30-89 days past due,75
+CP02242,30-89 days past due,55
+CP00317,30-89 days past due,75
+CP00284,30-89 days past due,55
+CP00304,30-89 days past due,40
+CP01249,30-89 days past due,75
+CP00064,30-89 days past due,40
+CP01302,30-89 days past due,55
+CP01632,30-89 days past due,40
+CP00151,30-89 days past due,40
+CP00312,30-89 days past due,40
+CP02305,30-89 days past due,40
+CP01865,30-89 days past due,55
+CP02558,30-89 days past due,40
+CP00760,30-89 days past due,55
+CP02166,30-89 days past due,55
+CP01255,30-89 days past due,40
+CP00933,30-89 days past due,55
+CP01346,30-89 days past due,55
+CP00523,Downgrade of 2+ notches in 12 months,2.0
+CP00030,Downgrade of 2+ notches in 12 months,2.0
+CP01621,Downgrade of 2+ notches in 12 months,2.0
+CP00789,Downgrade of 2+ notches in 12 months,3.0
+CP01904,Downgrade of 2+ notches in 12 months,3.0
+CP01458,Downgrade of 2+ notches in 12 months,2.0
+CP00481,Downgrade of 2+ notches in 12 months,2.0
+CP02728,Downgrade of 2+ notches in 12 months,2.0
+CP02655,Downgrade of 2+ notches in 12 months,2.0
+CP00657,Downgrade of 2+ notches in 12 months,2.0
+CP01553,Downgrade of 2+ notches in 12 months,3.0
+CP00640,Downgrade of 2+ notches in 12 months,2.0
+CP00026,Downgrade of 2+ notches in 12 months,2.0
+CP02582,Downgrade of 2+ notches in 12 months,2.0
+CP00284,Downgrade of 2+ notches in 12 months,2.0
+CP00064,Downgrade of 2+ notches in 12 months,3.0
+CP00436,Downgrade of 2+ notches in 12 months,3.0
+CP02853,Downgrade of 2+ notches in 12 months,2.0
+CP00312,Downgrade of 2+ notches in 12 months,2.0
+CP01575,Downgrade of 2+ notches in 12 months,2.0
+CP00386,Downgrade of 2+ notches in 12 months,2.0
+CP01395,Downgrade of 2+ notches in 12 months,2.0
+CP00819,Downgrade of 2+ notches in 12 months,3.0
+CP02934,Downgrade of 2+ notches in 12 months,2.0
+CP01269,Downgrade of 2+ notches in 12 months,2.0
+CP02263,Downgrade of 2+ notches in 12 months,4.0
+CP00760,Downgrade of 2+ notches in 12 months,3.0
+CP02270,Downgrade of 2+ notches in 12 months,3.0
+CP00439,Downgrade of 2+ notches in 12 months,2.0
+CP00860,Downgrade of 2+ notches in 12 months,2.0
+CP02370,Downgrade of 2+ notches in 12 months,3.0
+CP01603,Downgrade of 2+ notches in 12 months,3.0
+CP01255,Downgrade of 2+ notches in 12 months,2.0
+CP00933,Downgrade of 2+ notches in 12 months,2.0
+CP00658,Downgrade of 2+ notches in 12 months,2.0
+CP01788,Downgrade of 2+ notches in 12 months,2.0
+CP00415,Downgrade of 2+ notches in 12 months,3.0
+CP02980,3+ payment incidents in the month,3
